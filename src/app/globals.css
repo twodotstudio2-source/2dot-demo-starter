@@ -4,6 +4,8 @@
   /* ─── Colors ─────────────────────────────────────────────── */
   --color-background:         #ffffff;
   --color-foreground:         #0f0f0f;
+  --color-background-dark:    #111111;
+  --color-foreground-dark:    #ffffff;
   --color-primary:            #1a1a1a;
   --color-primary-foreground: #ffffff;
   --color-secondary:          #f5f5f5;
@@ -49,6 +51,7 @@
   --tracking-normal:   0em;
   --tracking-wide:     0.025em;
   --tracking-widest:   0.1em;
+  --tracking-button:   1.5px;
 
   /* ─── Spacing Scale (4px base) ───────────────────────────── */
   --space-1:  0.25rem;   /*  4px */
